@@ -1,0 +1,8 @@
+﻿  NDoors.cpp
+D:\NDoors\NDoors\NDoors\NDoors.cpp(59,116): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+D:\NDoors\NDoors\NDoors\NDoors.cpp(20): warning C4715: 'helper_numWrap': not all control paths return a value
+  NDoors.vcxproj -> D:\NDoors\NDoors\Debug\NDoors.exe
